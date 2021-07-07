@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    margin-top: 230px;
+    font-size: 90px;
+}
+
+body {background-color: black;}
+
+
+h1 {
+    color : white
+}
+
+.search-bar {
+    width: 500px;
+}
